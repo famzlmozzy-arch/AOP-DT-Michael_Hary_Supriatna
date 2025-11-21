@@ -59,6 +59,7 @@ p {
 
 .white {
     color: white;
+    font-size: medium;
 }
 
 h2 {
@@ -166,6 +167,4 @@ h2 {
   to {
     text-shadow: 0 0 20px red, 0 0 30px cyan, 0 0 40px magenta, 0 0 50px yellow, 0 0 60px black, 0 0 70px purple, 0 0 80px blueviolet;
   }
-
 }
-
